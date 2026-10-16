@@ -1,4 +1,4 @@
-Software Engineer
+thSoftware Engineer
 ----------------------------------------
 I have been learning computer science since 2022.
 Follow me on [youtube](http://www.youtube.com/@cnitro)
@@ -46,7 +46,7 @@ Follow me on [youtube](http://www.youtube.com/@cnitro)
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
         </picture> 
     </a> 
-    <a href="https://www.threads.net/@anvar_saidov_sh" target="_blank" rel="noreferrer"> 
+    <a href="https://www.threads.net/@anvarsaidovsh" target="_blank" rel="noreferrer"> 
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> 
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> 
