@@ -1,4 +1,4 @@
-thSoftware Engineer
+Software Engineer
 ----------------------------------------
 I have been learning computer science since 2022.
 Follow me on [youtube](http://www.youtube.com/@cnitro)
