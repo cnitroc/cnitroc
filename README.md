@@ -11,7 +11,7 @@ Follow me on [youtube](http://www.youtube.com/@cnitro)
 ### Socials
 
 <p align="left"> 
-    <a href="http://www.instagram.com/anvar_saidov_sh" target="_blank" rel="noreferrer"> 
+    <a href="http://www.instagram.com/anvarsaidovsh" target="_blank" rel="noreferrer"> 
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
