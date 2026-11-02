@@ -25,7 +25,7 @@ Follow me on [youtube](http://www.youtube.com/@cnitro)
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> 
         </picture> 
     </a> 
-    <a href="https://www.github.com/anvar-saidov-sh" target="_blank" rel="noreferrer"> 
+    <a href="https://www.github.com/cnitroc" target="_blank" rel="noreferrer"> 
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
